@@ -85,11 +85,11 @@ FA-130モーターは無負荷で70%くらいから回転を始めます。一�
 
 ## 回路図
 
-![回路図](https://github.com/yasuyoshi64/MotorControlExample/blob/main/MotorControlExample.png?raw=true)
+![回路図](https://github.com/yasuyoshi64/MotorX2ControlExample/blob/main/MotorX2ControlExample.png?raw=true)
 
 ## Web画面
 
-![Web画面](https://github.com/yasuyoshi64/MotorControlExample/blob/main/MotorControlExampleWeb.png?raw=true)
+![Web画面](https://github.com/yasuyoshi64/MotorX2ControlExample/blob/main/MotorX2ControlExampleWeb.png?raw=true)
 
 スライダーを動かすことでモーターを操作できます。
 Saveボタンは何も機能しません。
